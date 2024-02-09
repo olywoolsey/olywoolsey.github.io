@@ -9,10 +9,11 @@ body {
 
 header {
   text-align: center;
-  color: blue;
 }
 
 h1 {
+  color: blue;
+  text-align: center;
   font-size: 2em;
   margin-bottom: 20px;
 }
