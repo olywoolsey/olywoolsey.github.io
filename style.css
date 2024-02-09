@@ -2,6 +2,9 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 20px;
+  background-image: linear-gradient(to top, #53337A, #FFB74D, #F78DA7);
+}
+
 }
 
 header {
